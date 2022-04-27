@@ -3,4 +3,4 @@
 - icons from icon8
 - form by formsubmit.co
 - social feed by juicer 
-- intial template from HTML5UP
+- initial template from HTML5UP
